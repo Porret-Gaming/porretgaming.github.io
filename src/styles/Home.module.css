@@ -1,0 +1,13 @@
+/* src/styles/Home.module.css */
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+}
+
+.heading {
+    font-size: 2rem;
+    color: red;
+}
