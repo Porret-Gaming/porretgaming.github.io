@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 2000 1000">
+  <!-- Vertical City Skyline -->
+
+  <!-- Tree 1 -->
+  <path d="M120 900 Q150 1000 120 1000 L180 1000 Q150 1000 180 900 Z" fill="#df5400" />
+
+  <!-- Bottom Left Circle (Leaves) -->
+  <circle cx="6%" cy="89%" r="35" fill="#ff7624">
+    <animate attributeName="cx" values="6%; 5.9%; 6%; 6.1%; 6%" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <!-- Bottom Right Circle (Leaves) -->
+  <circle cx="9%" cy="89%" r="35" fill="#ff7624">
+    <animate attributeName="cx" values="9%; 8.9%; 9%; 9.1%; 9%" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <!-- Bottom Center (Leaves) -->
+  <circle cx="7.5%" cy="89%" r="35" fill="#ff7624">
+    <animate attributeName="cx" values="7.5%; 7.4%; 7.5%; 7.6%; 7.5%" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <!-- Middle Left Circle (Leaves) -->
+  <circle cx="7%" cy="84%" r="30" fill="#ff7624">
+    <animate attributeName="cx" values="7%; 6.75%; 7%; 7.25%; 7%" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <!-- Middle Right Circle (Leaves) -->
+  <circle cx="8%" cy="84%" r="30" fill="#ff7624">
+    <animate attributeName="cx" values="8%; 7.75%; 8%; 8.25%; 8%" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <!-- Top Circle (Leaves) -->
+  <circle cx="7.5%" cy="80%" r="25" fill="#ff7624">
+    <animate attributeName="cx" values="7.5%; 7%; 7.5%; 7.7%; 7.5%" dur="3s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Tree 2 -->
+  <path d="M270 900 Q300 1000 270 1000 L330 1000 Q300 1000 330 900 Z" fill="#df5400" />
+
+  <circle cx="13.5%" cy="89%" r="35" fill="#ff7624">
+    <animate attributeName="cx" values="13.5%; 13.4%; 13.5%; 13.6%; 13.5%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Bottom Right Circle (Leaves) -->
+  <circle cx="16.5%" cy="89%" r="35" fill="#ff7624">
+    <animate attributeName="cx" values="16.5%; 16.4%; 16.5%; 16.6%; 16.5%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Bottom Center (Leaves) -->
+  <circle cx="15%" cy="89%" r="35" fill="#ff7624">
+    <animate attributeName="cx" values="15%; 14.9%; 15%; 15.1%; 15%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Middle Left Circle (Leaves) -->
+  <circle cx="14.5%" cy="84%" r="30" fill="#ff7624">
+    <animate attributeName="cx" values="14.5%; 14.25%; 14.5%; 14.75%; 14.5%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Middle Right Circle (Leaves) -->
+  <circle cx="15.5%" cy="84%" r="30" fill="#ff7624">
+    <animate attributeName="cx" values="15.5%; 15.25%; 15.5%; 15.75%; 15.5%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Top Circle (Leaves) -->
+  <circle cx="15%" cy="80%" r="25" fill="#ff7624">
+    <animate attributeName="cx" values="15%; 14.5%; 15%; 15.2%; 15%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Tree 3 -->
+  <path d="M1770 900 Q1800 1000 1770 1000 L1830 1000 Q1800 1000 1830 900 Z" fill="#df5400" />
+
+  <circle cx="88.5%" cy="89%" r="35" fill="#ff7624">
+    <animate attributeName="cx" values="88.5%; 88.4%; 88.5%; 88.6%; 88.5%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Bottom Right Circle (Leaves) -->
+  <circle cx="91.5%" cy="89%" r="35" fill="#ff7624">
+    <animate attributeName="cx" values="91.5%; 91.4%; 91.5%; 91.6%; 91.5%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Bottom Center (Leaves) -->
+  <circle cx="90%" cy="89%" r="35" fill="#ff7624">
+    <animate attributeName="cx" values="90%; 89.9%; 90%; 90.1%; 90%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Middle Left Circle (Leaves) -->
+  <circle cx="89.5%" cy="84%" r="30" fill="#ff7624">
+    <animate attributeName="cx" values="89.5%; 89.25%; 89.5%; 89.75%; 89.5%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Middle Right Circle (Leaves) -->
+  <circle cx="90.5%" cy="84%" r="30" fill="#ff7624">
+    <animate attributeName="cx" values="90.5%; 90.25%; 90.5%; 90.75%; 90.5%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <!-- Top Circle (Leaves) -->
+  <circle cx="90%" cy="80%" r="25" fill="#ff7624">
+    <animate attributeName="cx" values="90%; 89.5%; 90%; 90.2%; 90%" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+
+
+  
+</svg>
